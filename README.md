@@ -1,3 +1,3 @@
 # Images
 ---
-there some pic used by other projects.
+there somes pic used by other projects.
